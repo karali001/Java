@@ -1,4 +1,4 @@
-package genelcalısma;
+package deneme2;
 import java.lang.*;
 
 public class User {
